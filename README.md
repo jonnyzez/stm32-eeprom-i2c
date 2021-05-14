@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/pedrozez/config-vscode/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrozez/config-vscode">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jonnyzez/stm32-eeprom-i2c">
   </a>
   
   <a href="https://github.com/jonnyzez/stm32-eeprom-i2c/issues">
