@@ -17,9 +17,9 @@
 
 ## Biblioteca desenvolvida para STM32 CUBE IDE
 
-## 💻 Getting started
+## 💻 Começando
 
-**Clone the project and access the folder**
+**Clona o repositório e acessa a pasta**
 ```bash
   $ git clone https://github.com/jonnyzez/stm32-eeprom-i2c
 ```
